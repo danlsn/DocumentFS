@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+~inbox/
+**.pdf
+**.epub
+*.epub
+*.pdf
